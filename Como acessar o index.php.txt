@@ -1,0 +1,14 @@
+
+Para executar o index.php
+
+1 - Instalar o wamp ou o xampp
+
+2 - Habilitar o apache no wamp ou no xampp
+
+3 - Ir em um navegador e colocar o seguinte endereço:
+
+    localhost/Calculo_tempo_duas_datas_PHP/
+
+    OBS: "Calculo_tempo_duas_datas_PHP" é  o meu diretório onde o index está instalado e 
+
+    o qual deverá ser colocado após o localhost/
