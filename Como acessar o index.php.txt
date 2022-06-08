@@ -1,13 +1,27 @@
 
 Para executar o index.php
 
-1 - Instalar o wamp ou o xampp
+1 - Instalar o wampserver ou o xampp (No caso deste projeto foi utilizado o xampp).
 
-2 - Habilitar o apache no wamp ou no xampp
+2 - Habilitar o apache no wamp ou no xampp.
 
-3 - Ir em um navegador e colocar o seguinte endereço:
+3 - Ir na pasta xampp, dentro dela está a pasta raiz para executar a página do index.php, a pasta
 
-    localhost/Calculo_tempo_duas_datas_PHP/
+    htdocs, entre nela.
+
+4 - Crie a pasta do arquivo index.php (no caso programa desenvolvido a pasta é calculo_tempo_duas_datas_php).
+
+5 - Executar o programa o qual será desenvolvida a página index.php (Visual Studio Code programa utilizado nesta aplicação).
+
+6 - Executar o Visual Code (Nesta ocasião).
+
+7 - Arrastar a pasta criada (por exemplo: calculo_tempo_duas_datas_php), após o arraste, ela abrirá no VSCode.
+
+8 - criar o arquivo index.php dentro da pasta.
+
+8 - Após o desenvolvimento da página, ir em um navegador(Chrome, Firefox por exemplo) e colocar o seguinte endereço:
+
+    localhost/Calculo_tempo_duas_datas_PHP/ .
 
     OBS: "Calculo_tempo_duas_datas_PHP" é  o meu diretório onde o index está instalado e 
 
